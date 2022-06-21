@@ -1,6 +1,6 @@
 # peissen
 ## Strings:
-![Alt text](Bilder/Strings.PNG?raw=true "Strings.PNG"| width=100)
+![Alt text](Bilder/Strings.PNG | width=100)
 ![Alt text](Bilder/fString.PNG?raw=true "fString.PNG")
 
 ## Mengen
