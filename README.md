@@ -1,4 +1,5 @@
-# peissen
+# Python
+- [Tom´s Github](https://github.com/IllusiveCoder/P-Theorie)
 ## Strings:
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Strings.PNG" width="550">
 
