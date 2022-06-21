@@ -27,7 +27,7 @@ s1
 
 
 
-    {1, 2, 3, 4, 5}
+-> {1, 2, 3, 4, 5}
 
 
 
@@ -39,7 +39,7 @@ s1
 
 
 
-    {1, 10, 2, 3, 50, 'a', 'd'}
+-> {1, 10, 2, 3, 50, 'a', 'd'}
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Mengen.PNG" width="600">
 
 ## Sequenzen:
@@ -66,7 +66,7 @@ L
 
 
 
-    [2, 3, 4, 5, 6, 7, 8, 9, 10]
+-> [2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Listen.PNG" width="550">
@@ -84,7 +84,7 @@ d
 
 
 
-    {'a': 100, 'b': 200, 'c': 300}
+-> {'a': 100, 'b': 200, 'c': 300}
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Dictionary.PNG" width="550">
 
 ## Funktionen:
@@ -105,7 +105,9 @@ add(10, 20)
 
 
 
-    30
+-> 30
+
+
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Funktionen, Liste und Dictionary.PNG" width="250">
 
 ## Klasse:
