@@ -1,50 +1,50 @@
 # peissen
 ## Strings:
-![Alt text](Bilder/Strings.PNG | width=100)
-![Alt text](Bilder/fString.PNG?raw=true "fString.PNG")
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Strings.PNG" width="550">
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/fString.PNG" width="550">
 
 ## Mengen
-![Alt text](Bilder/Mengen.PNG?raw=true "Mengen.PNG")
-
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Mengen.PNG" width="600">
 
 ## Sequenzen:
-![Alt text](Bilder/sequenzen.PNG?raw=true "sequenzen.PNG")
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/sequenzen.PNG" width="550">
 
 ## Liste:
-![Alt text](Bilder/Listen.PNG?raw=true "Listen.PNG")
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Listen.PNG" width="550">
 
 ## Dictionary:
-![Alt text](Bilder/Dictionary.PNG?raw=true "Dictionary")
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Dictionary.PNG" width="550">
 
-## Funktionen
-![Alt text](Bilder/Funktion.PNG?raw=true "Funktion")
-![Alt text](Bilder/Funktionen, Liste und Dictionary.PNG?raw=true "Funktionen, Liste und Dictionary.PNG")
+## Funktionen:
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Funktion.PNG" width="350">
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Funktionen, Liste und Dictionary.PNG" width="250">
 
-## Klasse
-![Alt text](Bilder/Klasse.PNG?raw=true "Klasse.PNG")
-![Alt text](Bilder/Spezielle_Methoden.PNG?raw=true "Spezielle_Methoden.PNG")
+## Klasse:
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Klasse.PNG" width="550">
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Spezielle_Methoden.PNG" width="550">
 
-## Dateien
-![Alt text](Bilder/Dateien.PNG?raw=true "Dateien")
+## Dateien:
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Dateien.PNG" width="550">
 
 
 ## Bibliotheken:
-![Alt text](Bilder/Biblio.PNG?raw=true "Bibliotheken")
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Biblio.PNG" width="650">
 
 ## Eingabe:
-![Alt text](Bilder/Eingabe.PNG?raw=true "Eingabe")
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Eingabe.PNG" width="450">
 
 ### Exception:
-![Alt text](Bilder/Exception.PNG?raw=true "Exception")
-![Alt text](Bilder/excep_finally.PNG?raw=true "excep_finally.PNG")
+
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Exception.PNG" width="450">
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/excep_finally.PNG" width="650">
 
 ### Generatorausdrücke und -funktionen:
-![Alt text](Bilder/Generatorausdrücke.PNG?raw=true "Generatorausdrücke.PNG")
-![Alt text](Bilder/Genratorfunktionen.PNG?raw=true "Genratorfunktionen.PNG")
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Generatorausdrücke.PNG" width="450">
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Genratorfunktionen.PNG" width="650">
 
 
 ### Namensgebung:
-![Alt text](Bilder/Namensgebung.PNG?raw=true "Namensgebung.PNG")
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Namensgebung.PNG" width="450">
 
 ### Zeitmessung:
-![Alt text](Bilder/Zeitmessung.PNG?raw=true "Zeitmessung.PNG")
+<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Zeitmessung.PNG" width="650">
