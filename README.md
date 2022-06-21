@@ -1,7 +1,17 @@
 # peissen
 ## Strings:
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Strings.PNG" width="550">
-<img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/fString.PNG" width="550">
+
+```python
+name = 'Paul'
+hours = 5
+minutes = 10.567 
+print(f'Hello {name}!\nIt took {hours} and {minutes:5.2f}.')
+```
+```python
+'{a:07d} {b:5.2f} {c:>25s}'.format(a=a, b=b, c=c)
+```
+
 
 ## Mengen
 ```python
@@ -61,10 +71,40 @@ L
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Listen.PNG" width="550">
 
 ## Dictionary:
+```python
+d = {'a': 100, 'b': 200, 'c': 300}
+```
+
+
+```python
+d
+```
+
+
+
+
+    {'a': 100, 'b': 200, 'c': 300}
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Dictionary.PNG" width="550">
 
 ## Funktionen:
+```python
+def add(a, b):
+    """Add two objects.
 
+    A simple test function.
+    `a` and `b` can any objects that work with `+``.
+    """
+    return a + b
+```
+
+```python
+add(10, 20)
+```
+
+
+
+
+    30
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Funktionen, Liste und Dictionary.PNG" width="250">
 
 ## Klasse:
@@ -95,6 +135,12 @@ class AddierbaresAutoRepr:
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Spezielle_Methoden.PNG" width="550">
 
 ## Dateien:
+```python
+with open('data.txt') as fobj:
+    print(fobj.closed)
+    print(fobj.closed)
+print(fobj.closed)
+```
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Dateien.PNG" width="550">
 
 ## Bibliotheken:
