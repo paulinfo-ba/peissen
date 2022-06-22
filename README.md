@@ -153,7 +153,24 @@ print(fobj.closed)
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Eingabe.PNG" width="450">
 
 ### Exception:
+```python
+class PositiveOnly(Exception):
 
+    def init(self, f, *args):
+        super().init(args)
+        self.value = f
+
+    def str(self):
+        return f"{self.value} is negative"
+
+
+num = -1
+try:
+    if num < 0:
+        raise PositiveOnly(num)
+except PositiveOnly as err:
+    print(err)
+```
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/Exception.PNG" width="450">
 <img src="https://raw.githubusercontent.com/paulinfo-ba/peissen/main/Bilder/excep_finally.PNG" width="650">
 
